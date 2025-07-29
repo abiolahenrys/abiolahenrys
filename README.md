@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PL/SQL**
 
-- 💬 Ask me about **Oracle Apex, HTML, Python3, ML, linux, Mac Os, Windows, Network Ssecurity**
+- 💬 Ask me about **Oracle Apex, HTML, Python3, ML, linux, Mac Os, Windows, Network Security**
 
 - 📫 How to reach me **abiolahenrys@gmail.com**
 
