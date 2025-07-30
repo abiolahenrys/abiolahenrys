@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **abiolahenrys@gmail.com**
 
-- 📄 Know about my experiences [https://limewire.com/d/1J3Wq#OKp6XLBAfU](https://limewire.com/d/1J3Wq#OKp6XLBAfU)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samuel-henry-abiola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-henry-abiola" height="30" width="40" /></a>
