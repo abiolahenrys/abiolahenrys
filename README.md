@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Cyber Home labs and certifications**
 
-- 🌱 I’m currently learning **PL/SQL**
-
 - 📝 I regularly write articles on [https://www.linkedin.com/in/samuel-henry-abiola-8951501a1/](https://www.linkedin.com/in/samuel-henry-abiola-8951501a1/)
 
 - 💬 Ask me about **Oracle Apex, HTML, Python3, ML, linux, windows, Mac os**
